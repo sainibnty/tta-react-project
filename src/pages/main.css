@@ -1,0 +1,7 @@
+.main-child{
+    display: flex;
+    border-right: 1px solid black;
+    align-items: center;
+    height: 300px;
+   text-align: center;
+}

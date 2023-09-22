@@ -1,0 +1,20 @@
+.parent {
+    border-bottom: 1px solid black;
+
+}
+
+.child1 {
+    display: flex;
+    justify-content: center;
+    border-right: 1px solid black;
+    height: 80px;
+    align-items: center;
+}
+
+.child2 {
+    display: flex;
+    height: 80px;
+    justify-content: flex-end;
+    align-items: center;
+    margin-right: 10px;
+}
